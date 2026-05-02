@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "movie",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dd001efc-ea39-4461-8f7a-b7db2dc9b146",
+			"database_name": "movie-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
